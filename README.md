@@ -1,5 +1,5 @@
-# cyberfusion2025
-CyberFusion 2025 Challenges
+# CTF Name
+[Add Description]
 
 # Resources
 - https://github.com/JohnHammond/ctf-katana
